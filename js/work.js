@@ -1,7 +1,7 @@
 // Projekt - Webbutveckling III - Moa Hjemdahl 2019
 
 // Variables
-const url = 'http://studenter.miun.se/~mohj1800/projekt/rest/cv.php/api/work';
+const url = 'http://studenter.miun.se/~mohj1800/web3/projekt/rest/cv.php/api/work';
 var add = document.getElementById('add');
 var upd = document.getElementById('update');
 
